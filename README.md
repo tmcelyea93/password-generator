@@ -9,3 +9,7 @@ To generate a random password using choice of uppercase letters, lowercase lette
 *JavaScript
 
 ## Website
+https://tmcelyea93.github.io/password-generator
+
+## Contributors 
+Made by Tarah McElyea 
